@@ -27,28 +27,29 @@ const Hero = () => {
           <div className={styles.textContent}>
             <h1 className={styles.title}>
               안녕하세요, 저는{' '}
-              <span className={styles.highlight}>James</span>입니다
+              <span className={styles.highlight}>KSK</span>입니다
             </h1>
             <p className={styles.subtitle}>
-              웹기획자 · UX 전략가
+              임베디드 시스템 개발자 · 하드웨어 솔루션 전문가
             </p>
             <p className={styles.description}>
-              사용자 중심의 디지털 경험을 설계하고, 데이터 기반의 의사결정으로
-              비즈니스 가치를 창출하는 웹기획자입니다.
+              15년간 자동차 블랙박스와 냉동기 제어 시스템 개발을 통해 검증된 실력을 보유한 
+              임베디드 시스템 전문가입니다. 하드웨어와 소프트웨어의 완벽한 융합으로 
+              안정적이고 혁신적인 솔루션을 제공합니다.
             </p>
             
             <div className={styles.stats}>
               <div className={styles.stat}>
-                <span className={styles.statNumber}>5+</span>
+                <span className={styles.statNumber}>15+</span>
                 <span className={styles.statLabel}>년 경력</span>
               </div>
               <div className={styles.stat}>
-                <span className={styles.statNumber}>50+</span>
+                <span className={styles.statNumber}>100+</span>
                 <span className={styles.statLabel}>프로젝트</span>
               </div>
               <div className={styles.stat}>
-                <span className={styles.statNumber}>200%</span>
-                <span className={styles.statLabel}>성과 향상</span>
+                <span className={styles.statNumber}>99.9%</span>
+                <span className={styles.statLabel}>시스템 안정성</span>
               </div>
             </div>
 
